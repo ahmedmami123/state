@@ -1,3 +1,7 @@
+body{
+  background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg")
+
+}
 .App {
   text-align: center;
 }
@@ -35,4 +39,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+button{
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.card{
+  background-color: #b1b6b86b;
+  width: 350px;
+margin: 0 auto;
+
 }
